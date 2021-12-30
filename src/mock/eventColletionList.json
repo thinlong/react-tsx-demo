@@ -1,0 +1,50 @@
+{
+    "total": 5,
+    "elemnts": [
+        {
+            "eventCollectionId": 1,
+            "name": "点火",
+            "vehicleCount": 4,
+            "createTime": "2021-11-03T06:05:42.815Z[UTC]",
+            "triggerTime": "2021-11-03T06:06:42.815Z[UTC]",
+            "stopTime": "2021-11-03T06:15:42.815Z[UTC]",
+            "status": 0
+        },
+        {
+            "eventCollectionId": 2,
+            "name": "开车门",
+            "vehicleCount": 5,
+            "createTime": "2021-11-03T07:05:42.815Z[UTC]",
+            "triggerTime": "2021-11-03T07:06:42.815Z[UTC]",
+            "stopTime": "2021-11-03T07:15:42.815Z[UTC]",
+            "status": 1
+        },
+        {
+            "eventCollectionId": 3,
+            "name": "刹车",
+            "vehicleCount": 6,
+            "createTime": "2021-11-03T08:05:42.815Z[UTC]",
+            "triggerTime": "2021-11-03T08:06:42.815Z[UTC]",
+            "stopTime": "2021-11-03T08:15:42.815Z[UTC]",
+            "status": 2
+        },
+        {
+            "eventCollectionId": 4,
+            "name": "左转向",
+            "vehicleCount": 20,
+            "createTime": "2021-11-03T08:05:42.815Z[UTC]",
+            "triggerTime": "2021-11-03T08:06:42.815Z[UTC]",
+            "stopTime": "2021-11-03T08:15:42.815Z[UTC]",
+            "status": 3
+        },
+        {
+            "eventCollectionId": 5,
+            "name": "远光",
+            "vehicleCount": 40,
+            "createTime": "2021-11-03T09:05:42.815Z[UTC]",
+            "triggerTime": "2021-11-03T09:06:42.815Z[UTC]",
+            "stopTime": "2021-11-03T09:15:42.815Z[UTC]",
+            "status": 0
+        }
+    ]
+}
